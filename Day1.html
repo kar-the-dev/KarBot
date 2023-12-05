@@ -10,5 +10,16 @@ body {
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+      <script>
+         var password = "chrsitmas23d1";
+         (function passcodeprotect() {
+            var passcode = prompt("Enter PassCode");
+            while (passcode !== password) {
+               alert("Incorrect PassCode");
+               return passcodeprotect();
+            }
+         }());
+         alert('Access Granted!');
+      </script>
 <h1 style="color:black;text-align:center;">Day one of Kar's 20 days of Christmas will be avaible at 12:00 PM CST!</h1>
 <p style="color:red;">*THIS MAY BE SUBJECT TO CHANGE*</p>
