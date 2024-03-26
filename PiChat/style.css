@@ -15,7 +15,6 @@ ul {
 }
 
 ul li {
-    list-style-position: inside;
-    margin-bottom: 10px;
- }
- 
+  list-style-position: inside;
+  margin-bottom: 10px;
+}
