@@ -13,3 +13,7 @@ body {
 ul {
   text-align: center;
 }
+
+li {
+  margin-bottom: 3px;
+}
