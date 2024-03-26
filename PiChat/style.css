@@ -11,6 +11,10 @@ body {
   color: black;
 }
 
+h1, h2 {
+  font-weight: 
+}
+
 h3 {
   font-weight: 500;
 }
